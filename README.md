@@ -1,16 +1,24 @@
 # Osvaldo Rodríguez
 
-Desarrollador Full-Stack con enfoque en Java Backend. Estudiante de 8vo semestre de Ingeniería en Sistemas Computacionales en la Universidad del Valle de México, promedio 9.37/10.
+Desarrollador full-stack junior en Aguascalientes, México. Estudio el último semestre de Ingeniería en Sistemas Computacionales en UVM; egreso previsto en febrero de 2027 (promedio 9.37/10).
 
-Trabajo construyendo cosas reales: un sistema de tickets de pago que uso diariamente en mi trabajo en California, una app de punto de venta para la paletería de mi mamá en Aguascalientes, y actualmente una REST API con Spring Boot conectada a PostgreSQL.
+Actualmente realizo prácticas en ESoft Pasión, contribuyendo a un punto de venta SaaS multiempresa: cobros recurrentes con Stripe, PHP/MySQL, migraciones versionadas, corrección de carga de archivos y revisión e integración de código. También colaboro en el sitio comercial con React y TypeScript.
 
-**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, REST APIs  
-**Frontend:** React, JavaScript ES6+, Tailwind CSS  
-**Bases de datos:** PostgreSQL, MySQL  
-**Herramientas:** Git, Vite, NetBeans, VS Code
+## Proyectos destacados
 
-Inglés B1+, dos años de experiencia laboral en entorno bilingüe en EUA.
+- **[Mi Tiendita — aplicación web](https://minegocio.expo.app)**: punto de venta e inventario offline para micronegocios, con React Native, Expo y TypeScript; SQLite local y sincronización con Supabase. Se distribuye como APK Android y PWA. En el servicio social capacité a 15 participantes; al cierre se registraron 8 negocios, 107 productos, 24 ventas y 43 clientes de fiado. El repositorio `sistema-pto-venta-ceili` corresponde a un prototipo anterior distinto, no a esta aplicación.
+- **[API de productos con Spring Boot](https://github.com/OsvaldoRodri/spring-boot-productos-api)**: proyecto de Java con PostgreSQL, arquitectura por capas, validaciones, manejo de errores y borrado lógico. Su README distingue lo implementado de lo pendiente.
+- **[EcoRecycle](https://github.com/OsvaldoRodri/ecorecycle-ticket-system)**: sistema React de tickets de pago, creado a partir de un problema de captura duplicada que encontré trabajando en un centro de reciclaje.
 
-Buscando prácticas profesionales en desarrollo de software. Disponible de forma flexible desde agosto 2026, abierto a oportunidades remotas antes de esa fecha.
+## Tecnologías
+
+**Experiencia de prácticas:** PHP, MySQL, JavaScript, React, TypeScript, Stripe, Git y Vite.  
+**Proyectos:** Java, Spring Boot, PostgreSQL, React Native, Expo, SQLite y Supabase.
+
+Los repositorios de concurrencia y calculadora Java son ejercicios académicos. El código de empresa permanece privado.
+
+Inglés B1+ (UKS/ELET, diciembre de 2023), con aproximadamente dos años acumulados de trabajo estacional bilingüe en Estados Unidos entre 2020 y 2026.
+
+**Busco empleo de tiempo completo en México o remoto internacional desde México. Puedo ajustar mis prácticas; fecha de incorporación a convenir.**
 
 [LinkedIn](https://www.linkedin.com/in/osvaldo-rodriguez-dev/) · osvaldo.rodriguez.dev@gmail.com
