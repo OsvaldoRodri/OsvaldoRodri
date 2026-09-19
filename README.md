@@ -19,6 +19,9 @@ Los repositorios de concurrencia y calculadora Java son ejercicios académicos. 
 
 Inglés B1+ (UKS/ELET, diciembre de 2023), con aproximadamente dos años acumulados de trabajo estacional bilingüe en Estados Unidos entre 2020 y 2026.
 
-**Busco empleo de tiempo completo en México o remoto internacional desde México. Puedo ajustar mis prácticas; fecha de incorporación a convenir.**
+**Busco empleo de tiempo completo, remoto o en Aguascalientes.** Soy ciudadano
+estadounidense, así que puedo trabajar para empresas de EE. UU. sin trámite
+migratorio ni sponsorship, facturando en USD. Trabajo en horario US Central.
+Fecha de incorporación a convenir.
 
 [LinkedIn](https://www.linkedin.com/in/osvaldo-rodriguez-dev/) · osvaldo.rodriguez.dev@gmail.com
